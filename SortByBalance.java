@@ -6,7 +6,7 @@ public class SortByBalance {
         List<Customer> customers = new ArrayList<>();
 
         for (int i = 0; i < numCustomers; i++) {
-              // complete this for loop
+              // please complete this for loop
 
 
 
